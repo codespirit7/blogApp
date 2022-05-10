@@ -1,0 +1,23 @@
+.aboutDiv {
+  display: flex;
+  flex-direction: row;
+}
+.aboutPara {
+  margin-top: 60px;
+
+  margin-left: 120px;
+  font-size: 22px;
+  font-family: "Lora", serif;
+  color: gray;
+  line-height: 3rem;
+  justify-content: space-between;
+}
+
+.aboutPP {
+  width: 40%;
+  margin-left: 160px;
+  padding: 40px 0 20px;
+  margin-top: 10px;
+  border-radius: 50%;
+  object-fit: cover;
+}
