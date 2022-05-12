@@ -5,7 +5,7 @@ It is deployed on Heroku.com
 #Website-Link
 https://riteshblog-app.herokuapp.com/
 
-#Goals
+# Goals
 1. An easy and simple responsive website for publishing blogs.
 2. Support for text and photo based blog formats.
 3. Easy authoring in HTML, Markdown (with code formatting), or JSON
