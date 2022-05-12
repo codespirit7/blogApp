@@ -14,4 +14,7 @@ https://riteshblog-app.herokuapp.com/
 6. Custom authentication with password hashing.
 
 
-![Screenshot from 2022-05-10 23-34-55](https://user-images.githubusercontent.com/88592710/167693947-7d3e34f7-7e6a-42a8-9c18-fc610f71187d.png)
+x-special/nautilus-clipboard
+copy
+file:///home/ritesh/Desktop/Screenshot%20from%202022-05-10%2023-34-55.xcf
+
