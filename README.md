@@ -13,8 +13,7 @@ https://riteshblog-app.herokuapp.com/
 5. Ability to UPDATE username, Profile Pic, password, email.
 6. Custom authentication with password hashing.
 
+# User Interface of Website
+![1652625306785](https://user-images.githubusercontent.com/88592710/168478461-9d4b2360-6e65-4f10-81a6-ecc1dc2976d1.png)
 
-x-special/nautilus-clipboard
-copy
-file:///home/ritesh/Desktop/Screenshot%20from%202022-05-10%2023-34-55.xcf
 
