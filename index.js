@@ -61,11 +61,13 @@ app.use("/api/users", userRoute);
 app.use("/api/posts", postRoute)
 app.use("/api/categories", categoryRoute);
 
-app.use(express.static(path.join(__dirname, "/client/public")));
+app.use(express.static(__dirname + '/public'));
 
-app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'client/public/', 'index.html'));
-});
+
+
+// app.get('*', (req, res) => {
+//   res.sendFile(path.join(__dirname, 'client/public/', 'index.html'));
+// });
 
 
 app.listen(port, ()=>{
